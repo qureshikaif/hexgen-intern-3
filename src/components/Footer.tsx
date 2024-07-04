@@ -113,7 +113,7 @@ const Footer = () => {
           </div>
         </div>
         <p>
-          <span className="font-semibold">United States | </span>
+          <span className="font-semibold text-white">United States | </span>
           <a href="#" className="hover:underline">
             Change Location &gt;
           </a>
